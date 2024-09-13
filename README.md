@@ -1,10 +1,5 @@
 ## Hi there 👋
-
-
-**jeannfrs38/jeannfrs38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+---
 - 🔭 I’m currently working in Install Entrtenimento
 - 🌱 I’m currently learning SQL, Unity3D  
 - 👯 I’m looking to collaborate on ...
