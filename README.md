@@ -8,15 +8,13 @@
 
 - 🔭 I’m currently looking for internship
 
-- 🌱 I’m currently learning **.Net Framework, AspNetCore, and Godot Engine**
-
-- 👯 I’m looking to collaborate on **The fools Carnival**
+- 🌱 I’m currently learning **.Net Framework, AspNetCore, and Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jeannfrs38](https://github.com/jeannfrs38)
 
 - 📝 All of my games are available at [https://jeanfrs.itch.io/](https://jeanfrs.itch.io/)
 
-- 💬 Ask me about **C#, Unity 3d, .Net Framework, Games, Animes**
+- 💬 Ask me about **C#, Unity 3d, .Net Framework, Games, Animes, Backend**
 
 - 📫 How to reach me **jeanfrs38@gmail.com**
 
