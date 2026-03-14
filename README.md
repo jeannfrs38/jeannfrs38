@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on Instal Entretenimento **Catcity**
+- 🔭 I’m currently looking for internship
 
 - 🌱 I’m currently learning **.Net Framework, AspNetCore, and Godot Engine**
 
